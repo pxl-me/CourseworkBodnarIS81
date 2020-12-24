@@ -1,0 +1,29 @@
+﻿@model List<CategoryViewModel>
+@{
+    ViewData["Title"] = "Categories";
+}
+
+<h2>Categories</h2>
+<h2> </h2>
+
+<a type="button" class="btn btn-primary" asp-action="CreateCategory">ADD CATEGORY</a>
+<a type="button" class="btn btn-primary" asp-action="DeleteCategory">DELETE CATEGORY</a>
+<a type="button" class="btn btn-primary" asp-action="UpdateCategory">UPDATE CATEGORY</a>
+<h2> </h2>
+
+<form method="get">
+    <div class="form-inline form-group">
+        <label class="control-label">Sort by Name: </label>
+        <input type="text" name="CategoryName" class="form-control" />
+        <input type="submit" value="REFRESH" class="btn btn-primary" />
+    </div>
+</form>
+
+<table class="table">
+    <tr><td>Name</td><td>Id</td></tr>
+    @foreach (var item in Model)
+    {
+        <tr><td>@item.Name</td><td>@item.Id</td></tr>
+
+    }
+</table>

@@ -1,0 +1,34 @@
+﻿@model List<ProductViewModel>
+@{
+    ViewData["Title"] = "Products";
+}
+
+<h2>Products</h2>
+<h2> </h2>
+
+<a type="button" class="btn btn-primary" asp-action="CreateProduct">ADD PRODUCT</a>
+<a type="button" class="btn btn-primary" asp-action="DeleteProduct">DELETE PRODUCT</a>
+<a type="button" class="btn btn-primary" asp-action="UpdateProduct">UPDATE PRODUCT</a>
+<h2> </h2>
+
+<form method="get">
+    <div class="form-inline form-group">
+        <label class="control-label">Sort by Name: </label>
+        <input type="text" name="ProductName" class="form-control" />
+        <input type="submit" value="REFRESH" class="btn btn-primary" />
+    </div>
+</form>
+
+<table class="table">
+    <tr><td>Name</td><td>Price</td><td>CategoryId</td><td>SupplierId</td><td>Id</td></tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Name</td>
+            <td>@item.Price</td>
+            <td>@item.CategoryId</td>
+            <td>@item.SupplierId</td>
+            <td>@item.Id</td>
+        </tr>
+    }
+</table>

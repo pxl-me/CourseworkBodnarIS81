@@ -1,0 +1,28 @@
+﻿@model List<SupplierViewModel>
+@{
+    ViewData["Title"] = "Suppliers";
+}
+
+<h2>Suppliers</h2>
+<h2> </h2>
+
+<a type="button" class="btn btn-primary" asp-action="CreateSupplier">ADD SUPPLIER</a>
+<a type="button" class="btn btn-primary" asp-action="DeleteSupplier">DELETE SUPPLIER</a>
+<a type="button" class="btn btn-primary" asp-action="UpdateSupplier">UPDATE SUPPLIER</a>
+<h2> </h2>
+
+<form method="get">
+    <div class="form-inline form-group">
+        <label class="control-label">Sort by Name: </label>
+        <input type="text" name="SupplierName" class="form-control" />
+        <input type="submit" value="REFRESH" class="btn btn-primary" />
+    </div>
+</form>
+
+<table class="table">
+    <tr><td>Name</td><td>Region</td><td>Id</td></tr>
+    @foreach (var item in Model)
+    {
+        <tr><td>@item.Name</td><td>@item.Region</td><td>@item.Id</td></tr>
+    }
+</table>

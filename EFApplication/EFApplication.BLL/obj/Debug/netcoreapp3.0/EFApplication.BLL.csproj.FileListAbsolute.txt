@@ -1,0 +1,34 @@
+C:\Users\yyyy\source\repos\EFApplication\EFApplication.BLL\bin\Debug\netcoreapp3.0\EFApplication.BLL.deps.json
+C:\Users\yyyy\source\repos\EFApplication\EFApplication.BLL\bin\Debug\netcoreapp3.0\EFApplication.BLL.dll
+C:\Users\yyyy\source\repos\EFApplication\EFApplication.BLL\bin\Debug\netcoreapp3.0\EFApplication.BLL.pdb
+C:\Users\yyyy\source\repos\EFApplication\EFApplication.BLL\bin\Debug\netcoreapp3.0\EFApplication.DAL.dll
+C:\Users\yyyy\source\repos\EFApplication\EFApplication.BLL\bin\Debug\netcoreapp3.0\EFApplication.DAL.pdb
+C:\Users\yyyy\source\repos\EFApplication\EFApplication.BLL\obj\Debug\netcoreapp3.0\EFApplication.BLL.csprojAssemblyReference.cache
+C:\Users\yyyy\source\repos\EFApplication\EFApplication.BLL\obj\Debug\netcoreapp3.0\EFApplication.BLL.AssemblyInfoInputs.cache
+C:\Users\yyyy\source\repos\EFApplication\EFApplication.BLL\obj\Debug\netcoreapp3.0\EFApplication.BLL.AssemblyInfo.cs
+C:\Users\yyyy\source\repos\EFApplication\EFApplication.BLL\obj\Debug\netcoreapp3.0\EFApplication.BLL.csproj.CopyComplete
+C:\Users\yyyy\source\repos\EFApplication\EFApplication.BLL\obj\Debug\netcoreapp3.0\EFApplication.BLL.dll
+C:\Users\yyyy\source\repos\EFApplication\EFApplication.BLL\obj\Debug\netcoreapp3.0\EFApplication.BLL.pdb
+C:\Users\shoro\Downloads\Telegram Desktop\EFApplication\EFApplication.BLL\bin\Debug\netcoreapp3.0\EFApplication.BLL.deps.json
+C:\Users\shoro\Downloads\Telegram Desktop\EFApplication\EFApplication.BLL\bin\Debug\netcoreapp3.0\EFApplication.BLL.dll
+C:\Users\shoro\Downloads\Telegram Desktop\EFApplication\EFApplication.BLL\bin\Debug\netcoreapp3.0\EFApplication.BLL.pdb
+C:\Users\shoro\Downloads\Telegram Desktop\EFApplication\EFApplication.BLL\bin\Debug\netcoreapp3.0\EFApplication.DAL.dll
+C:\Users\shoro\Downloads\Telegram Desktop\EFApplication\EFApplication.BLL\bin\Debug\netcoreapp3.0\EFApplication.DAL.pdb
+C:\Users\shoro\Downloads\Telegram Desktop\EFApplication\EFApplication.BLL\obj\Debug\netcoreapp3.0\EFApplication.BLL.csprojAssemblyReference.cache
+C:\Users\shoro\Downloads\Telegram Desktop\EFApplication\EFApplication.BLL\obj\Debug\netcoreapp3.0\EFApplication.BLL.AssemblyInfoInputs.cache
+C:\Users\shoro\Downloads\Telegram Desktop\EFApplication\EFApplication.BLL\obj\Debug\netcoreapp3.0\EFApplication.BLL.AssemblyInfo.cs
+C:\Users\shoro\Downloads\Telegram Desktop\EFApplication\EFApplication.BLL\obj\Debug\netcoreapp3.0\EFApplication.BLL.csproj.CopyComplete
+C:\Users\shoro\Downloads\Telegram Desktop\EFApplication\EFApplication.BLL\obj\Debug\netcoreapp3.0\EFApplication.BLL.dll
+C:\Users\shoro\Downloads\Telegram Desktop\EFApplication\EFApplication.BLL\obj\Debug\netcoreapp3.0\EFApplication.BLL.pdb
+E:\KPI\5sem\#\CourseWork\Курсач С#\EFApplication\EFApplication.BLL\bin\Debug\netcoreapp3.0\EFApplication.BLL.deps.json
+E:\KPI\5sem\#\CourseWork\Курсач С#\EFApplication\EFApplication.BLL\bin\Debug\netcoreapp3.0\EFApplication.BLL.dll
+E:\KPI\5sem\#\CourseWork\Курсач С#\EFApplication\EFApplication.BLL\bin\Debug\netcoreapp3.0\EFApplication.BLL.pdb
+E:\KPI\5sem\#\CourseWork\Курсач С#\EFApplication\EFApplication.BLL\bin\Debug\netcoreapp3.0\EFApplication.DAL.dll
+E:\KPI\5sem\#\CourseWork\Курсач С#\EFApplication\EFApplication.BLL\bin\Debug\netcoreapp3.0\EFApplication.DAL.pdb
+E:\KPI\5sem\#\CourseWork\Курсач С#\EFApplication\EFApplication.BLL\obj\Debug\netcoreapp3.0\EFApplication.BLL.csprojAssemblyReference.cache
+E:\KPI\5sem\#\CourseWork\Курсач С#\EFApplication\EFApplication.BLL\obj\Debug\netcoreapp3.0\EFApplication.BLL.AssemblyInfoInputs.cache
+E:\KPI\5sem\#\CourseWork\Курсач С#\EFApplication\EFApplication.BLL\obj\Debug\netcoreapp3.0\EFApplication.BLL.AssemblyInfo.cs
+E:\KPI\5sem\#\CourseWork\Курсач С#\EFApplication\EFApplication.BLL\obj\Debug\netcoreapp3.0\EFApplication.BLL.csproj.CoreCompileInputs.cache
+E:\KPI\5sem\#\CourseWork\Курсач С#\EFApplication\EFApplication.BLL\obj\Debug\netcoreapp3.0\EFApplication.BLL.csproj.CopyComplete
+E:\KPI\5sem\#\CourseWork\Курсач С#\EFApplication\EFApplication.BLL\obj\Debug\netcoreapp3.0\EFApplication.BLL.dll
+E:\KPI\5sem\#\CourseWork\Курсач С#\EFApplication\EFApplication.BLL\obj\Debug\netcoreapp3.0\EFApplication.BLL.pdb
